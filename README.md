@@ -2,7 +2,7 @@
 
 Official download page for **FlowQ Connect**, the desktop agent for Infinity Flow Cloud.
 
-FlowQ Connect runs on a computer on your network and acts as a **secure bridge** between your **printers** and **Infinity Flow Cloud**—so jobs and device state can move between your shop floor and the cloud without exposing printers directly to the internet.
+FlowQ Connect runs on a computer on your network and acts as a **secure bridge** between your **printers** and **Infinity Flow Cloud**.
 
 This repository hosts **versioned binaries and installers only**. Source code is not published here.
 
